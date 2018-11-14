@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin-top:  3%;
+    background: linear-gradient(#007bff, white, #007bff);
+
+}
+header {
+    padding: 0% 0% 3% 3%;
+}
+h1{
+    font-size: 50px;
+}
+
+section{
+    padding: 0% 0% 6% 6%;
+    font-size: 25px;
+}
+
+
